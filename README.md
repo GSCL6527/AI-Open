@@ -1,4 +1,3 @@
-```markdown
 # 🤖 CommAInder - 智能指令执行系统  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
