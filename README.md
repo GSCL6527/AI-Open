@@ -113,5 +113,3 @@ SPDX-License-Identifier: MIT
 
 > 📧 技术支持：GS@652789.xyz  
 > 🌐 官方网站：[www.gscl.com.mp](https://www.gscl.com.mp)
-```
-
