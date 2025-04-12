@@ -1,4 +1,3 @@
-```markdown
 # 🤖 CommAInder - 智能指令执行系统
 
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -28,7 +27,7 @@ graph TD
     D --> E{正则表达式检测}
     E --> F[沙箱执行环境]
     F --> G[📊 执行日志记录]
-```
+
 
 ### 📦 开箱即用
 ```bash
