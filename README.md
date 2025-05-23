@@ -111,5 +111,5 @@ SPDX-License-Identifier: MIT
 - 禁止开放公网访问端口  
 - 建议在虚拟机环境测试  
 
-> 📧 技术支持：GS@652789.xyz  
+> 📧 技术支持：greenstarcoltd@163.com  
 > 🌐 官方网站：[www.gscl.com.mp](https://www.gscl.com.mp)
